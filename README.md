@@ -4,4 +4,4 @@ Predictor-Chooser method of Ideker, Thorsson, Karp from Pacific Symposium on Bio
 
 Manuscript PDF available at https://psb.stanford.edu/psb-online/proceedings/psb00/ideker.pdf
 
-Code provided as-is, contributions of examples and documentations are welcome.
+Code provided as-is. Suggested text on usage notes is most welcome.
